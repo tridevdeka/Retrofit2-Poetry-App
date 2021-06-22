@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyPoetryApp</string>
+    <string name="add_your_text_here">Add your text here</string>
+    <string name="add_poet_name">Add poet name</string>
+    <string name="add_your_poetry_here">Add your poetry here</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+</resources>
